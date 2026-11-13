@@ -1,0 +1,23 @@
+{
+  "name": "bubble-tap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bubble Tap - color changing bubble puzzles for kids and people who stim",
+  "scripts": {
+    "add:android": "npx cap add android",
+    "add:ios": "npx cap add ios",
+    "sync": "npx cap sync",
+    "icons": "npx @capacitor/assets generate --android --iconBackgroundColor '#e9f3ff' --splashBackgroundColor '#e9f3ff'",
+    "android": "npx cap open android",
+    "ios": "npx cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/ios": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.0",
+    "@capacitor/cli": "^7.0.0"
+  }
+}
