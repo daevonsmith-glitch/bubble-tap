@@ -1,0 +1,16 @@
+{
+  "name": "Bubble Tap",
+  "short_name": "Bubble Tap",
+  "description": "Color-changing bubble puzzles, free play and Bubble Rush for kids and anyone who stims.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e9f3ff",
+  "theme_color": "#e9f3ff",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
