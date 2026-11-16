@@ -1,0 +1,14 @@
+{
+  "name": "bubble-tap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bubble Tap - color changing bubble puzzles for kids and people who stim",
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/ios": "^8.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+android/
+ios/
+*.keystore
+*.jks
+*.p8
+play-store-signing-key.txt
